@@ -14,5 +14,9 @@ let sum = a+b
 
 console.log(sum)
 
-// also we can write like this 
+// below is how we take the value from the user
+
+let n = Number(prompt("Please enter a number"));
+
+console.log(n)
 
